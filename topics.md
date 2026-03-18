@@ -184,5 +184,3 @@
 10. Git internals → CI/CD at scale → expert tooling
 
 ---
-
-*Topics marked as FAANG-preferred: trunk-based development, conventional commits, OIDC auth, CodeQL, Dependabot, monorepo tooling, GitHub API automation.*
