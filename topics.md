@@ -1,7 +1,4 @@
 # GitHub Topics: Beginner to Advanced
-
-A complete learning path for GitHub — from first commit to enterprise-level workflows used at MNCs and FAANG companies.
-
 ---
 
 ## 🟢 Beginner
