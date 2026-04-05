@@ -2,6 +2,7 @@
 
 # Weekly Development Schedule
 
+
 ```mermaid
 gantt
     title Weekly GitHub Work Plan
