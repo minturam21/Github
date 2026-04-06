@@ -2,7 +2,6 @@
 
 # Weekly Development Schedule
 
-
 ```mermaid
 gantt
     title Weekly GitHub Work Plan
@@ -28,3 +27,4 @@ gantt
     section Review
     Code Review            :         r1, 2026-03-30, 1d
     Retrospective          :         r2, 2026-03-31, 1d
+```
