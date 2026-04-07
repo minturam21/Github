@@ -1,5 +1,4 @@
 # Github Learning Roadmap
-
 # Weekly Development Schedule
 
 ```mermaid
